@@ -1,1 +1,2 @@
-# framework_test
+Subtask 1: Why did I choose to participate in the Dare IT Challenge?
+For me, the main goal of participating in the project is new experience and new knowledge. This is a boost for development. From the first task, I realized that it would not be easy, but it would be interesting. I want to change my occupation and I really hope that this course will be the first step for me in mastering a profession in the field of IT.
